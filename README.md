@@ -8,12 +8,12 @@ If our hand get out of the frame of the camera then it will automatically stop w
 * Python
 <br>
 <b>Installations</b>
-*OpenCv
-pip install opencv-python
-PyautoGUI
-pip install pyautogui
-*Mediapipe
-pip install mediapipe
+* OpenCv
+- pip install opencv-python
+* PyautoGUI
+- pip install pyautogui
+* Mediapipe
+- pip install mediapipe
 
 <b>Ho to Run</b>
 python main.py
