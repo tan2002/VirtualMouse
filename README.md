@@ -7,11 +7,11 @@ If our hand get out of the frame of the camera then it will automatically stop w
 ## Programming language
 * Python
 <br>
+
 ## Installations
 * OpenCv
 * PyautoGUI 
 * Mediapipe
-<br>
 ## How to Run
 python main.py
 
