@@ -12,6 +12,12 @@ If our hand get out of the frame of the camera then it will automatically stop w
 1. OpenCv
    ```bash
    # pip install opencv-python
+2. Mediapipe
+   ```bash
+   # pip install mediapipe
+3. PyautoGUI
+   ```bash
+   # pip install pyautogui
 
 
 
