@@ -4,17 +4,18 @@ the cursor of the mouse started moving with the movement of hand.<br>
 We can click at any position that we want.
 If our hand get out of the frame of the camera then it will automatically stop working.
 
-<b>Programming language</b>
+## Programming language
 * Python
 <br>
-<b>Installations</b>
+## Installations
 * OpenCv - pip install opencv-python
 * PyautoGUI - pip install pyautogui
 * Mediapipe - pip install mediapipe
-<b>Ho to Run</b>
+<br>
+## How to Run
 python main.py
 
-<b>Installations</b>
+## Installations
 * OpenCv
 * PyautoGUI 
 * Mediapipe
